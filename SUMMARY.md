@@ -41,13 +41,14 @@
 * [HOW TO USE GITBOOK](how-tos/how-to-use-gitbook.md)
 * [HOW TO SHARE NEWB.FARM](how-tos/how-to-share-newb.farm.md)
 
-## Vault
+## Info
 
-* [Introduction](vault/introduction-1.md)
-* [Fees](vault/fees.md)
-* [APY vs APR](vault/apy-vs-apr.md)
-* [Defi Dictionary](vault/defi-dictionary/README.md)
-  * [TVL](vault/defi-dictionary/tvl.md)
-  * [Vault](vault/defi-dictionary/vault.md)
-  * [Token](vault/defi-dictionary/token.md)
-  * [APY](vault/defi-dictionary/apy.md)
+* [Introduction](info/introduction-1.md)
+* [Fees](info/fees.md)
+* [APY vs APR](info/apy-vs-apr.md)
+* [Defi Dictionary](info/defi-dictionary/README.md)
+  * [TVL](info/defi-dictionary/tvl.md)
+  * [Vault](info/defi-dictionary/vault.md)
+  * [Token](info/defi-dictionary/token.md)
+  * [APY](info/defi-dictionary/apy.md)
+* [Staking](info/staking.md)
